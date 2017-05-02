@@ -9,13 +9,14 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>About - WVR. & PEVCE.</title>
+    <title>Testimonials - WVR. & PEVCE.</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/business-casual.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel ="stylesheet">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
@@ -53,7 +54,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="home.html">Home</a>
                     </li>
                     <li>
                         <a href="about.html">About</a>
@@ -77,43 +78,52 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">About
-                        <strong>WVR. & PEVCE.</strong>
+                    <h2 class="intro-text text-center"><strong>Testimonials</strong>
+                        
                     </h2>
                     <hr>
                 </div>
-                <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="img/VirtualMilitary.jpg" alt="">
-                </div>
-                <div class="col-md-6">
-<p> <strong>WVR. & PEVCE.</strong> serves a variety of industries from education to professional athletics however keeps its main focus on developing virtual reality tools for the military. Our microdisplay technology is going to enable the next generation of commercial products including medical imaging devices to assist with the reduction of the effects of PTSD and military products supporting ground soldiers, 3D simulation and training. WVR. & PEVCE. was founded in 2012 and has been a leader in advancing Virtual Reality technology ever since. </p>
-<iframe width="540" height="460" src="https://www.youtube.com/embed/nrgUPVFY44o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
-        </div>
-
-        <div class="row">
-            <div class="box">
-                <div class="col-lg-12">
-                    <hr>
-                    <h2 class="intro-text text-center">Our
-                        <strong>Team</strong>
+                <div class="col-lg-12 text-center">
+                    <img class="img-responsive img-border img-full" src="img/jimmy.jpg" alt="">
+                    <h2>Jimmy Castellanos
+                        <br>
+                        <small>March 16, 2017</small>
                     </h2>
+                    <p>"I almost lost it completely. We did not know if it would work. It did. Better than I ever expected.” <br> <small>Reliving a life-altering experience is never an easy feat; however, Castellanos admitted that after viewing his story over and over, it produced less of a reaction.</small> </p>
+<!-- 
+                    <a href="#" class="btn btn-default btn-lg">Read More</a>
+ -->
                     <hr>
                 </div>
-                <div class="col-sm-6 text-center">
-                    <img class="img-responsive" src="img/profilepic.jpg" alt="">
-                    <h3>Juwon Owolabi
-                        <small>Founder and President</small>
-                    </h3>
+                <div class="col-lg-12 text-center">
+                    <img class="img-responsive img-border img-full" src="img/chris.jpg" alt="">
+                    <h2>Chris Merkle - <small>U.S. Marine</small> 
+                        <br>
+                        <small>June 17, 2014</small>
+                    </h2>
+                    <p>“So, it really allowed me to open the door and begin my healing process,” he said. “I’m still a work in process obviously but I’m so far forward, leaps and bound beyond where I would have been without virtual reality.” </p>
+                    <!-- <a href="#" class="btn btn-default btn-lg">Read More</a> -->
+                    <hr>
                 </div>
-                <div class="col-sm-6 text-center">
-                    <img class="img-responsive" src="img/albertpic.jpg" alt="">
-                    <h3>Albert "Skip" Rizzo
-                        <small>Co-Founder and Vice President</small>
-                    </h3>
+               
+                
+                 <div class="col-lg-12 text-center">
+<iframe width="580" height="326" src="https://www.youtube.com/embed/OWtQ7lJE1Ws?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>                    <p>"With a wide variety of environments, and the ability to insert specific entities into the scenarios, the options for training opportunities are virtually limitless; rehearsals for missions or live-fire exercises are just a couple of examples. Currently, the programmed training environments include mountainous, wooded, and desert. These are intended to simulate places like Afghanistan and Iraq, but are not limited to only these specific scenarios. This system enhances training; it does not replace it."</p>
+<!-- 
+                    <a href="#" class="btn btn-default btn-lg">Read More</a>
+ -->
+                    <hr>
                 </div>
-            
-                <div class="clearfix"></div>
+                <div class="col-lg-12 text-center">
+                    <ul class="pager">
+<!-- 
+                        <li class="previous"><a href="#">&larr; Older</a>
+                        </li>
+                        <li class="next"><a href="#">Newer &rarr;</a>
+                        </li>
+ -->
+                    </ul>
+                </div>
             </div>
         </div>
 

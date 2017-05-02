@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>About - WVR. & PEVCE.</title>
+    <title>Contact - WVR. & PEVCE. </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -47,13 +47,13 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="index.html">WVR. & PEVCE.</a>
+                <a class="navbar-brand" href="home.html">WVR. & PEVCE.</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="home.html">Home</a>
                     </li>
                     <li>
                         <a href="about.html">About</a>
@@ -77,43 +77,67 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">About
+                    <h2 class="intro-text text-center">Contact
                         <strong>WVR. & PEVCE.</strong>
                     </h2>
                     <hr>
                 </div>
-                <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="img/VirtualMilitary.jpg" alt="">
+                <div class="col-md-8">
+                    <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
+                    <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
                 </div>
-                <div class="col-md-6">
-<p> <strong>WVR. & PEVCE.</strong> serves a variety of industries from education to professional athletics however keeps its main focus on developing virtual reality tools for the military. Our microdisplay technology is going to enable the next generation of commercial products including medical imaging devices to assist with the reduction of the effects of PTSD and military products supporting ground soldiers, 3D simulation and training. WVR. & PEVCE. was founded in 2012 and has been a leader in advancing Virtual Reality technology ever since. </p>
-<iframe width="540" height="460" src="https://www.youtube.com/embed/nrgUPVFY44o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</div>
+                <div class="col-md-4">
+                    <p>Phone:
+                        <strong>708.374.0721</strong>
+                    </p>
+                    <p>Email:
+                        <strong><a href="mailto:oeo220@lehigh.edu">oeo220@lehigh.edu</a></strong>
+                    </p>
+                    <p>Address:
+                        <strong>Drown Hall, 35 Sayre Dr 
+                            <br>Bethlehem, PA 18015 </strong>
+                    </p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
         </div>
 
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Our
-                        <strong>Team</strong>
+                    <h2 class="intro-text text-center">Contact
+                        <strong>form</strong>
                     </h2>
                     <hr>
+                    <p>Want a headset of your own or want to ask about where Albert's happy place is or about any of my guilty pleasures?<br><small>(DOUBLE STUFFED OREOS)</small> <br>Feel free to send us a message and we'll get back to you as soon as possible. </p>
+                    <form role="form">
+                        <div class="row">
+                            <div class="form-group col-lg-4">
+                                <label>Name</label>
+                                <input type="text" class="form-control">
+                            </div>
+                            <div class="form-group col-lg-4">
+                                <label>Email Address</label>
+                                <input type="email" class="form-control">
+                            </div>
+                            <div class="form-group col-lg-4">
+                                <label>Phone Number</label>
+                                <input type="tel" class="form-control">
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="form-group col-lg-12">
+                                <label>Message</label>
+                                <textarea class="form-control" rows="6"></textarea>
+                            </div>
+                            <div class="form-group col-lg-12">
+                                <input type="hidden" name="save" value="contact">
+                                <button type="submit" class="btn btn-default">Submit</button>
+                                <p> <strong>Find Your Happy Place</strong></p>
+                            </div>
+                        </div>
+                    </form>
                 </div>
-                <div class="col-sm-6 text-center">
-                    <img class="img-responsive" src="img/profilepic.jpg" alt="">
-                    <h3>Juwon Owolabi
-                        <small>Founder and President</small>
-                    </h3>
-                </div>
-                <div class="col-sm-6 text-center">
-                    <img class="img-responsive" src="img/albertpic.jpg" alt="">
-                    <h3>Albert "Skip" Rizzo
-                        <small>Co-Founder and Vice President</small>
-                    </h3>
-                </div>
-            
-                <div class="clearfix"></div>
             </div>
         </div>
 
